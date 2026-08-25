@@ -1,0 +1,6 @@
+{
+  "name": "Kai Nam Chok",
+  "description": "ระบบจัดการและบันทึกข้อมูล บริษัท ไก่นำโชค จำกัด (Kai Nam Chok Co., Ltd.) พร้อมระบบเข้าสู่ระบบด้วย Google/Gmail และ Firebase Firestore",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
